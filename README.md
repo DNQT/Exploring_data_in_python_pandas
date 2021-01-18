@@ -1,2 +1,2 @@
 # Foundation of Computer Science Project
-Requests from the teacher and python code are written in English, while the comments to the codes are written in Italian.
+Requests from the teacher and the python code are written in English, while the comments to the codes are written in Italian.
