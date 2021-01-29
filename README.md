@@ -5,3 +5,5 @@ In the project the teacher's requests and the python code are written in English
 
 The Normalizing university names folder contains files that describe how i normalized university names in the following tables: 'shanghai_most_recent_data', 'times_most_recent_data' and 'world_most_recent_data'. I recommend opening this file once you get to the fourth point of the project. 
 Also, in this files the comments on the codes are in Italian while the codes themselves are in English.
+
+Vote obtained on 29-01-21: 30/30
